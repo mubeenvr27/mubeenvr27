@@ -51,6 +51,6 @@ I am a Computer Science undergraduate with a deep focus on **Computer Vision**, 
 ---
 
 ### ⚡ Fun Fact
-I once built a Tetris clone in Assembly Language (COAL) — nothing makes you appreciate high-level Python more than writing a game in registers and interrupts!
+I once built a Tetris clone in Assembly Language (COAL) - nothing makes you appreciate high-level Python more than writing a game in registers and interrupts!
 
 ---
