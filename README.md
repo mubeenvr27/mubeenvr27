@@ -10,7 +10,6 @@ I am a Computer Science undergraduate with a deep focus on **Computer Vision**, 
 ### 🔭 Currently Working On
 * **[MANZAR](https://github.com/mubeenvr27)**: An interactive Geospatial AI platform for National Zonal Assessment. We use **Sentinel-2** and **PRSS-1** (0.98m res) imagery for LULC classification, deforestation detection, and flood analysis.
 * **MANZAR Scout Hunter**: A Decoupled RAG Architecture using **n8n**, **Docker**, and **Gemini 2.5 Flash** to automate geospatial research auditing and SOTA feasibility filtering.
-* **URAN**: [Add a one-sentence description of URAN here].
 
 ### 🌱 Learning & Researching
 * **Deep Learning:** Evaluating architectures like Swin-Unet, SegFormer, and U-Net++ for high-resolution segmentation.
