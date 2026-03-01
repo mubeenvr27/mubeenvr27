@@ -45,8 +45,8 @@ I am a Computer Science undergraduate with a deep focus on **Computer Vision**, 
 
 ### 💬 Let's Connect!
 * **LinkedIn**: [linkedin.com/in/mubeenvr27](https://www.linkedin.com/in/mubeenvr27) (Let's talk Geospatial AI!)
-* **Email**: [Your Email Here]
-* **Portfolio**: [Link if available]
+* **Email**: [mubeenvr27@gmail.com
+* **Portfolio**: [Muhammad Mubeen]( https://muhammad-mubeen.netlify.app )
 
 ---
 
