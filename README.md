@@ -98,4 +98,4 @@ My work revolves around turning complex data into **practical, deployable soluti
 
 ##  Fun Fact
 
-Built a Tetris clone in Assembly Language — made me respect Python a lot more.
+Built a Tetris clone in Assembly Language, made me respect Python a lot more.
