@@ -1,102 +1,87 @@
-# Muhammad Mubeen 👋
+# Hi there, I'm Muhammad Mubeen 👋
 
 🚀 Machine Learning Engineer | Geospatial AI | Computer Vision  
-🎓 CS Senior @ FAST-NUCES | AI Trainee @ Samsung Pakistan  
+CS Senior @ FAST-NUCES | AI Trainee @ Samsung Pakistan  
+
+I work on applied AI systems with a focus on Computer Vision, Remote Sensing, and scalable ML pipelines. My goal is to turn complex data into real-world, deployable solutions.
 
 ---
 
-## 🧠 About Me
+## 🔭 Current Work
 
-I build **real-world AI systems** focused on Computer Vision, Remote Sensing, and scalable ML pipelines.  
-My work revolves around turning complex data into **practical, deployable solutions**.
+### MANZAR – Geospatial AI Platform (FYP)
+- Building an AI-driven platform for large-scale satellite imagery analysis  
+- Working with Sentinel-2 and PRSS-1 (0.98m resolution) data  
+- Focus: LULC classification, deforestation detection, flood mapping  
 
----
-
-## 🔭 Current Focus
-
-### 🌍 MANZAR – Geospatial AI Platform
-- Large-scale satellite imagery analysis (Sentinel-2, PRSS-1)
-- LULC classification, flood mapping, deforestation detection
-- Building production-ready segmentation pipelines  
-
-### 🤖 MANZAR Scout Hunter (RAG System)
-- Automated research discovery + evaluation
-- Filtering SOTA models for real-world feasibility
+### MANZAR Scout Hunter – Research Automation
+- Developing a RAG-based system for automated research discovery and evaluation  
+- Filtering SOTA architectures for real-world feasibility  
 - Stack: Python, n8n, Docker, Gemini  
+
+---
+
+## 🌱 Learning & Focus Areas
+
+- **Deep Learning:** Segmentation models (U-Net++, SegFormer, Swin-Unet)  
+- **MLOps:** Scalable pipelines using Docker, FastAPI, AWS  
+- **Automation:** Workflow systems using n8n and Google Apps Script  
 
 ---
 
 ## 💼 Experience
 
 - **Samsung Pakistan** – AI Trainee  
-  → ML/DL systems for real-world deployment  
+  Working on real-world ML/DL systems under industry mentorship  
 
 - **Pulmonics Plus (AMC)** – AI Intern  
-  → AI in healthcare (lung & sleep analysis)  
+  Contributing to AI solutions in healthcare (lung & sleep analysis)  
 
 - **Orange Tree Foundation** – Automation Developer  
-  → Reduced manual reporting effort by 80%  
+  Built automated attendance system → reduced manual effort by 80%  
 
 - **ABMH Construction** – Software Engineer Intern  
-  → Built production-ready React applications  
+  Developed responsive web platform using React + Vite  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**ML & AI**  
-`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost`
+**Machine Learning:**  
+PyTorch, TensorFlow, Scikit-learn, XGBoost  
 
-**Data & Analysis**  
-`Pandas` `NumPy` `Statsmodels` `Prophet`
+**Data & Analysis:**  
+Pandas, NumPy, Statsmodels, Prophet  
 
-**Geospatial & CV**  
-`OpenCV` `GDAL` `Rasterio` `GeoPandas` `QGIS`
+**Geospatial & CV:**  
+OpenCV, GDAL, Rasterio, GeoPandas, QGIS  
 
-**Backend & Deployment**  
-`FastAPI` `Flask` `Docker` `Streamlit` `React`
+**Backend & Deployment:**  
+FastAPI, Flask, Docker, Streamlit, React.js  
 
-**Languages**  
-`Python` `SQL` `C++` `JavaScript`
-
----
-
-## 📊 Featured Projects
-
-- 🛰️ **Geospatial AI (MANZAR)**  
-  Satellite imagery processing + segmentation pipelines  
-
-- 🤖 **Research Automation (RAG Pipeline)**  
-  LLM-powered system for evaluating ML research  
-
-- 📈 **Inventory Forecasting System**  
-  ARIMA + LSTM for demand prediction  
-
-- 👁️ **Engagement Detection System**  
-  Real-time computer vision tracking  
-
-- 🔐 **Fraud Detection System**  
-  ML-based anomaly detection  
+**Languages:**  
+Python, SQL, C++, JavaScript  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubeenvr27&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubeenvr27&layout=compact&theme=tokyonight" />
-</p>
+- **Geospatial AI (MANZAR)** – Satellite imagery processing & segmentation  
+- **Research Automation (RAG Pipeline)** – LLM-powered evaluation system  
+- **Inventory Forecasting System** – ARIMA + LSTM for demand prediction  
+- **Engagement Detection System** – Real-time CV-based attention tracking  
+- **Credit Card Fraud Detection** – ML-based anomaly detection  
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect
 
-- 🔗 LinkedIn: https://linkedin.com/in/mubeenvr27  
-- 📧 Email: mubeenvr27@gmail.com  
-- 📊 Kaggle: https://www.kaggle.com/muhammadmubeenxt  
+- **LinkedIn:** https://linkedin.com/in/mubeenvr27  
+- **Email:** mubeenvr27@gmail.com  
+- **Kaggle:** https://www.kaggle.com/muhammadmubeenxt  
 
 ---
 
 ## ⚡ Fun Fact
 
-Built a Tetris clone in Assembly — forced me to truly understand how systems work.
+Built a Tetris clone in Assembly Language — made me respect Python a lot more.
