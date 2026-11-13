@@ -1,101 +1,102 @@
-# Hi there, I'm Muhammad Mubeen 
+# Hi there, I'm Muhammad Mubeen
 
-Machine Learning Engineer | Geospatial AI | Computer Vision  
-CS Senior @ FAST-NUCES | AI Trainee @ Samsung Pakistan  
+**Full-Stack & AI Engineer** | RAG & LLM Systems | Medical AI | Geospatial Deep Learning
+Full-Stack & AI Engineer @ Pulmonics Plus (USA, remote) | BS Computer Science, FAST-NUCES (2026)
 
----
-
-##  About Me
-
-I build **real-world AI systems** focused on Computer Vision, Remote Sensing, and scalable ML pipelines.  
-My work revolves around turning complex data into **practical, deployable solutions**.
+> **Open to freelance and contract work.** I work on US business hours (9 AM – 5:30 PM EST) and have shipped production systems for a US healthcare company.
 
 ---
 
-##  Current Work
+## About Me
 
-### MANZAR – Geospatial AI Platform (FYP)
-- Building an AI-driven platform for large-scale satellite imagery analysis  
-- Working with Sentinel-2 and PRSS-1 (0.98m resolution) data  
-- Focus: LULC classification, deforestation detection, flood mapping  
-
-### MANZAR Scout Hunter – Research Automation
-- Developing a RAG-based system for automated research discovery and evaluation  
-- Filtering SOTA architectures for real-world feasibility  
-- Stack: Python, n8n, Docker, Gemini  
+I build **production AI systems end to end**: from the database and backend, through the LLM or deep learning model, to the web app the user actually touches.
+Most of my recent work is in **healthcare**: HIPAA-ready serverless platforms, clinical RAG chatbots, and telehealth infrastructure. I also do research in medical imaging and satellite-based flood mapping.
 
 ---
 
-##  Learning & Focus Areas
+## Current Work
 
-- **Deep Learning:** Segmentation models (U-Net++, SegFormer, Swin-Unet)  
-- **MLOps:** Scalable pipelines using Docker, FastAPI, AWS  
-- **Automation:** Workflow systems using n8n and Google Apps Script  
+### Pulmonics Plus – Full-Stack & AI Engineer (Remote, USA)
+- **Priority Home Monitor:** HIPAA-ready serverless web platform on Next.js 14 and AWS Amplify
+- **Clinical RAG chatbot:** Amazon Bedrock (Claude Haiku + Titan Embeddings v2), answering strictly from verified clinical content, with staff handoff, honeypot bot defense and DOMPurify XSS sanitization
+- **Sub-millisecond intent routing:** pgvector cosine similarity against pre-computed cluster centroids, skipping unnecessary LLM calls
+- **Event-driven ingestion:** AWS Lambda + S3 triggers that chunk, embed and index new PDFs automatically
+- **MediMeet:** telehealth platform integrating self-hosted Jitsi video visits with OpenEMR, with department-scoped role-based access control
+- Supervising interns on a DVC-versioned respiratory-sound dataset (DagsHub, Label Studio)
 
----
+### MANZAR – Multi-Sensor Flood Detection
+- Fusing Sentinel-1 SAR and Sentinel-2 optical imagery on **UNet++ with CBAM attention** and Focal Tversky Loss
+- Satellite processing pipelines for PRSS-1 (0.98 m) and Sentinel-2 data, in collaboration with SUPARCO and FFC
+- Paper in preparation for a remote sensing journal
 
-##  Experience
-
-- **Samsung Pakistan** – AI Trainee  
-  Working on real-world ML/DL systems under industry mentorship  
-
-- **Pulmonics Plus (AMC)** – AI Intern  
-  Contributing to AI solutions in healthcare (lung & sleep analysis)  
-
-- **Orange Tree Foundation** – Automation Developer  
-  Built automated attendance system → reduced manual effort by 80%  
-
-- **ABMH Construction** – Software Engineer Intern  
-  Developed responsive web platform using React + Vite  
+### Medical Imaging Research
+- Evaluating 3D lung tumor segmentation architectures on PET/CT (Lung-PET-CT-Dx)
+- Missing-modality imputation for brain MRI (BraTS 2021), trained on Oracle Cloud Infrastructure
 
 ---
 
-##  Tech Stack
+## Experience
 
-**ML & AI**  
-`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost`
+- **Pulmonics Plus** – Full-Stack & AI Engineer *(Apr 2026 – Present)*
+  Medical AI pipelines, RAG systems and telehealth infrastructure for a Texas-based healthcare company
 
-**Data & Analysis**  
-`Pandas` `NumPy` `Statsmodels` `Prophet`
+- **Samsung Pakistan** – AI Trainee *(Jan – May 2026)*
+  Brain tumor segmentation platform with Swin UNETR (BraTS 2021), XGBoost radiogenomics and Grad-CAM explainability
 
-**Geospatial & CV**  
-`OpenCV` `GDAL` `Rasterio` `GeoPandas` `QGIS`
+- **Orange Tree Foundation** – Automation Lead *(Jan 2024 – Aug 2026)*
+  Built an automated attendance system that reduced manual reporting effort by 80%
 
-**Backend & Deployment**  
-`FastAPI` `Flask` `Docker` `Streamlit` `React`
-
-**Languages**  
-`Python` `SQL` `C++` `JavaScript`
+- **ABMH Construction** – Software Engineer Intern *(Jun – Aug 2025)*
+  Responsive company website with React + Vite
 
 ---
 
-##  Featured Projects
+## Tech Stack
 
--  **Geospatial AI (MANZAR)**  
-  Satellite imagery processing + segmentation pipelines  
+**AI, LLMs & RAG**
+`Amazon Bedrock` `Claude` `Gemini 2.5 Flash` `pgvector` `LlamaParse` `n8n`
 
--  **Research Automation (RAG Pipeline)**  
-  LLM-powered system for evaluating ML research  
+**Machine Learning & Computer Vision**
+`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `OpenCV` `MediaPipe`
 
--  **Inventory Forecasting System**  
-  ARIMA + LSTM for demand prediction  
+**Web & Backend**
+`Next.js` `React` `TypeScript` `FastAPI` `Django` `Flask` `Redis` `Celery`
 
--  **Engagement Detection System**  
-  Real-time computer vision tracking  
+**Cloud & DevOps**
+`AWS (Lambda, S3, RDS, Amplify, ECS, EC2)` `Docker` `Oracle Cloud` `PostgreSQL`
 
--  **Fraud Detection System**  
-  ML-based anomaly detection   
+**Data & MLOps**
+`Pandas` `NumPy` `DVC` `DagsHub` `Label Studio`
 
----
+**Geospatial**
+`GDAL` `Rasterio` `GeoPandas` `QGIS` `Mapbox`
 
-##  Connect
-
-- **LinkedIn:** https://linkedin.com/in/mubeenvr27  
-- **Email:** mubeenvr27@gmail.com  
-- **Kaggle:** https://www.kaggle.com/muhammadmubeenxt  
+**Languages**
+`Python` `TypeScript` `JavaScript` `SQL` `C++`
 
 ---
 
-##  Fun Fact
+## Featured Projects
 
-Built a Tetris clone in Assembly Language, made me respect Python a lot more.
+- **[MANZAR](#)** – Multi-sensor flood detection with SAR + optical fusion (UNet++, CBAM)
+- **[Research Scout Pipeline](#)** – Autonomous arXiv discovery, parsing and summarization with n8n, Gemini 2.5 Flash, LlamaParse and Docker, with multi-key API failover
+- **[Brain Tumor Segmentation Platform](#)** – Swin UNETR on multi-modal MRI with a Flask API and Grad-CAM
+- **[Engagement Detection System](#)** – Real-time attention tracking with ResNet-18 + MediaPipe, solving webcam domain shift
+- **[EEG Theta Wave Sonification](#)** – Converts EDF EEG recordings to audio with parallel processing
+- **[Inventory Forecasting System](#)** – ARIMA + LSTM demand forecasting with FastAPI and Streamlit
+- **[Attendance Automation](https://github.com/mubeenvr27/OTF-Attendance-System)** – Google Apps Script + Zoom data, 80% less manual reporting
+- **[Fraud Detection System](#)** – ML-based anomaly detection
+
+---
+
+## Connect
+
+- **LinkedIn:** https://linkedin.com/in/mubeenvr27
+- **Email:** mubeenvr27@gmail.com
+- **Kaggle:** https://www.kaggle.com/muhammadmubeenxt
+
+---
+
+## Fun Fact
+
+Built a Tetris clone in Assembly language. It made me respect Python a lot more.
